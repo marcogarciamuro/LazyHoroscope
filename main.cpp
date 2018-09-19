@@ -16,6 +16,8 @@ int main()
   cout<<"Please enter your last name"<<endl;
   cin>>LastName;
 
+  cout<<"Welcome, "<<FirstName[0]<<"."<<LastName[0]<<" here is your fortune..."<<endl;
+
   //tell fortune
 
   return 0;
