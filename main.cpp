@@ -18,7 +18,7 @@ int main()
   cin>>LastName;
   index = LastName.length()-1;
 
-cout<<"Welcome, "<<FirstName[0]<<"."<<LastName[0]<<","<<" here is your fortune..."<<endl;
+cout<<"Welcome, "<<FirstName[0]<<"."<<LastName[0]<<".,"<<" here is your fortune..."<<endl;
 
   //tell fortune
   cout<<"your lucky number is "<<FirstName.length()<<endl;
